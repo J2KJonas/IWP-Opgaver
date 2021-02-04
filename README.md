@@ -3,4 +3,5 @@
 
 
 // 1-2:
-> console.log("Hej med dig!");
+// > console.log("Hej med dig!");
+
